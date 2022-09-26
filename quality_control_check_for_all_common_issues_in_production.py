@@ -695,6 +695,7 @@ for s in sys.stdin:
     x = res['vx_pm_sk']
 
 
+    ## UNCOMMENT line by line below to check each category
     check_resend_marker(res); print(json.dumps(res))                                           # check claim freq marker for resend
 
     #------------------------------------------
