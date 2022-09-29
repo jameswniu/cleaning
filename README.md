@@ -17,7 +17,7 @@ Removing JSON records with conditions specified by input file.py
 
 Verify address and tax ID on W-9 with OCR after cleaning image.py
 
-Pad missing values by multiple imputation center variables add interactions test train data by cross validation machine learn log lasso Regression KNN and decision trees.R
+Pad missing values by multiple imputation method center variables add interactions test train data by cross validation machine learn log lasso Regression KNN and decision trees.R
 
 Quality control check for all common issues in production.py
 
