@@ -19,6 +19,8 @@ Verify address and tax ID on W-9 with OCR after cleaning image.py
 
 Pad missing values by multiple imputation center variables add interactions test train data by cross validation machine learn recidivism rate for probationers log Regression KNN and decision trees.R
 
+Pick relevant variables and period for mask mandates and group data into useful segments.ipynb
+
 Quality control check for all common issues in production.py
 
 Generate different group by reports after cleaning and integrating data from different tables.sql
@@ -32,6 +34,4 @@ Fix State given address check sum of charges verify facility name given NPI and 
 Get City given address in JSON object.py
 
 Extract transform and format data from customer raw input.py
-
-Create scatterplot linear regression heat map to analyze political alignment and mask mandates.ipynb
 
