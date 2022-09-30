@@ -33,3 +33,5 @@ Get City given address in JSON object.py
 
 Extract transform and format data from customer raw input.py
 
+Create scatterplot linear regression heat map to analyze political alignment and mask mandates.ipynb
+
